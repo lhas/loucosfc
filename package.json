@@ -1,0 +1,14 @@
+{
+  "name": "Loucos F.C.",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node webapp/app.js"
+  },
+  "dependencies": {
+    "express": "3.4"
+  },
+  "engines": {
+    "node": "6.3.1"
+  }
+}
